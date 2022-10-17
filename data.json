@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Work",
+    "timeframes": {
+      "daily": {
+        "current": 5,
+        "previous": 7,
+        "interval": "Day"
+      },
+      "weekly": {
+        "current": 32,
+        "previous": 36,
+        "interval": "Week"
+      },
+      "monthly": {
+        "current": 103,
+        "previous": 128,
+        "interval": "Month"
+      }
+    }
+  },
+  {
+    "title": "Play",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 2,
+        "interval": "Day"
+      },
+      "weekly": {
+        "current": 10,
+        "previous": 8,
+        "interval": "Week"
+      },
+      "monthly": {
+        "current": 23,
+        "previous": 29,
+        "interval": "Month"
+      }
+    }
+  },
+  {
+    "title": "Study",
+    "timeframes": {
+      "daily": {
+        "current": 0,
+        "previous": 1,
+        "interval": "Day"
+      },
+      "weekly": {
+        "current": 4,
+        "previous": 7,
+        "interval": "Week"
+      },
+      "monthly": {
+        "current": 13,
+        "previous": 19,
+        "interval": "Month"
+      }
+    }
+  },
+  {
+    "title": "Exercise",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 1,
+        "interval": "Day"
+      },
+      "weekly": {
+        "current": 4,
+        "previous": 5,
+        "interval": "Week"
+      },
+      "monthly": {
+        "current": 11,
+        "previous": 18,
+        "interval": "Month"
+      }
+    }
+  },
+  {
+    "title": "Social",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 3,
+        "interval": "Day"
+      },
+      "weekly": {
+        "current": 5,
+        "previous": 10,
+        "interval": "Week"
+      },
+      "monthly": {
+        "current": 21,
+        "previous": 23,
+        "interval": "Month"
+      }
+    }
+  },
+  {
+    "title": "Self Care",
+    "timeframes": {
+      "daily": {
+        "current": 0,
+        "previous": 1,
+        "interval": "Day"
+      },
+      "weekly": {
+        "current": 2,
+        "previous": 2,
+        "interval": "Week"
+      },
+      "monthly": {
+        "current": 7,
+        "previous": 11,
+        "interval": "Month"
+      }
+    }
+  }
+]
